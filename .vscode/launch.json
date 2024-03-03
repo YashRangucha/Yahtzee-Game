@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/yashrangucha/mp2-YashRangucha/linux",
+      "program": "/Users/yashrangucha/mp2-YashRangucha/linux/build/Debug/outDebug"
+    }
+  ]
+}
